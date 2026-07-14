@@ -4,8 +4,11 @@ This Project is a **Personal Expense Tracker** developed as part of my **Data Sc
 The main goal is to collect, organize, and analyze expense data while building a simple end-to-end data-driven application.
 The system uses **FastAPI** to handle data through APIs and **Streamlit** to present insights in an interactive way.
 
+---
 <p align="center">
-  <img src="images/thumbnail.jpg" >
+  <img src="images/thumbnail.jpg">
+  <img src="images/input.png" width="45%">
+  <img src="images/output.png" width="45%">
 </p>
 
 ---
