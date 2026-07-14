@@ -7,7 +7,7 @@ The system uses **FastAPI** to handle data through APIs and **Streamlit** to pre
 ---
 <p align="center">
   <img src="images/thumbnail.jpg">
-  <img src="images/input.png" width="45%">
+  <img src="images/dashboard.png" width="45%">
   <img src="images/output.png" width="45%">
 </p>
 
