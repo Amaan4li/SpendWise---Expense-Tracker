@@ -5,11 +5,8 @@ The main goal is to collect, organize, and analyze expense data while building a
 
 The system uses **FastAPI** to handle data through APIs and **Streamlit** to present insights in an interactive way.
 
----
-## 📸 Screenshots
 <p align="center">
-  <img src="images/dashboard.png" width="45%">
-  <img src="images/output.png" width="45%">
+  <img src="images/thumbnail.jpg" >
 </p>
 
 ---
