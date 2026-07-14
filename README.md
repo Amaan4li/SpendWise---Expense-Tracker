@@ -2,7 +2,6 @@
 
 This Project is a **Personal Expense Tracker** developed as part of my **Data Science learning journey**.  
 The main goal is to collect, organize, and analyze expense data while building a simple end-to-end data-driven application.
-
 The system uses **FastAPI** to handle data through APIs and **Streamlit** to present insights in an interactive way.
 
 <p align="center">
@@ -85,9 +84,10 @@ From a data science point of view, this project focuses on:
 
 ---
 
-## 👨‍💻 Author 
-### Amaan Ali 
-**💻 Data Science Enthusiast**
+## 📬 Connect with Me
+**If you have any feedback or would like to collaborate, feel free to reach out!** <br>
+🔗 LinkedIn: [amaan-ali-ds](https://www.linkedin.com/in/amaan-ali-ds) <br>
+🔗Live App: [link](https://tracker-fpseqsczkkgyyljcfwegvl.streamlit.app/)
 
 
 
